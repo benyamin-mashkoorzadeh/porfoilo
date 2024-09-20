@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1363125d.js",
+    "static/media/bg02.jpeg": "/static/media/bg02.fed56c625266d3687ee6.jpeg",
+    "static/media/map.svg": "/static/media/map.0d7639e83802dec1e21368a6a2e777bb.svg",
+    "static/media/contact-management.jpg": "/static/media/contact-management.815661269e34feb362f9.jpg",
+    "static/media/real-estate.jpg": "/static/media/real-estate.3b8e173eccfdfecf3b5b.jpg",
+    "static/media/picture.jpg": "/static/media/picture.f0d2a5e8b90cccb6f117.jpg",
+    "static/media/news.jpg": "/static/media/news.7e4497257354e15d7e75.jpg",
+    "static/media/webshop.jpg": "/static/media/webshop.68575498fec2d13e1b07.jpg",
+    "static/media/admin.jpeg": "/static/media/admin.6df595cd8a0081822455.jpeg",
+    "static/media/react-original.svg": "/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/php-svgrepo-com.svg": "/static/media/php-svgrepo-com.099cd051f27e93830fcdb7b1ac05bc40.svg",
+    "static/media/javascript-original.svg": "/static/media/javascript-original.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/css3-original.svg": "/static/media/css3-original.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/git-original.svg": "/static/media/git-original.c08353563539c6459b353f29d8dd7bf2.svg",
+    "index.html": "/index.html",
+    "static/media/html5-original.svg": "/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
+    "main.1363125d.js.map": "/static/js/main.1363125d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1363125d.js"
+  ]
+}
